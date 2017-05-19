@@ -53,6 +53,15 @@
 
 ---
 
+# SonarLint
+
+- Plugin for on-the-fly feedback from sonar server
+- Available for Eclipse, IntelliJ IDEA and Visual Studio
+- Also for Command Line
+- <http://www.sonarlint.org/>
+
+---
+
 # Why use it?
 
 - Automated analysis before code review
